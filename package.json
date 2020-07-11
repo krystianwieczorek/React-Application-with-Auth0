@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "latest": "^0.2.0",
+    "prettier": "^2.0.5"
+  }
+}
